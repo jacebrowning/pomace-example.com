@@ -1,0 +1,62 @@
+locators:
+  inclusions:
+    - mode: ''
+      value: ''
+      index: 0
+      uses: 0
+  exclusions:
+    - mode: ''
+      value: ''
+      index: 0
+      uses: 0
+actions:
+  - verb: ''
+    name: ''
+    locators:
+      - mode: ''
+        value: ''
+        index: 0
+        uses: 0
+  - verb: click
+    name: more_information
+    locators:
+      - mode: ''
+        value: ''
+        index: 0
+        uses: 0
+      - mode: text
+        value: More Information
+        index: 0
+        uses: -1
+      - mode: text
+        value: More information
+        index: 0
+        uses: -1
+      - mode: text
+        value: more information
+        index: 0
+        uses: -1
+      - mode: value
+        value: More Information
+        index: 0
+        uses: -1
+      - mode: value
+        value: More information
+        index: 0
+        uses: -1
+      - mode: value
+        value: more information
+        index: 0
+        uses: -1
+      - mode: text (partial)
+        value: More Information
+        index: 0
+        uses: -1
+      - mode: text (partial)
+        value: More information
+        index: 0
+        uses: 1
+      - mode: text (partial)
+        value: more information
+        index: 0
+        uses: 0
